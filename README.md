@@ -51,7 +51,8 @@
 <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"/>&nbsp;&nbsp;
 
 <br/>
----
+
+
 # Contacts
 
 [![linkedin](https://user-images.githubusercontent.com/25087769/87172072-530a5080-c2dc-11ea-8e2c-8ee4dbf3394b.png)](https://www.linkedin.com/in/snowdence) &nbsp;&nbsp;
