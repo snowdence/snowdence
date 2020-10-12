@@ -22,7 +22,7 @@
 - 🔭 I’m currently working on -> `Fullstack Web/Mobile Technique`
 - 🌱 I’m currently learning on -> `Data mining and natural language processing`
 - 👯 I’m looking to collaborate on -> `ReactJS`
-- 📫 How to reach me: `workevos@gmai.com`
+- 📫 How to reach me: `workevos@gmail.com`
 </td>
 <td>
 <p align="center">
